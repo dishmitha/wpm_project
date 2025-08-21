@@ -1,0 +1,31 @@
+{
+  "name": "wpm-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "^4.21.2",
+    "http-errors": "~1.6.3",
+    "jade": "^0.29.0",
+    "morgan": "^1.10.1",
+    "nodemon": "^3.1.10"
+  },
+  "description": "��#\u0000W\u0000P\u0000M\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dishmitha/wpm_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dishmitha/wpm_project/issues"
+  },
+  "homepage": "https://github.com/dishmitha/wpm_project#readme"
+}
