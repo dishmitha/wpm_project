@@ -1,5 +1,5 @@
 const homelist = (req, res) => {
-res.render('index', { title: 'Home' });
+res.render('index', { title: 'Srida' });
 };
 /* GET 'Location info' page */
 const locationInfo = (req, res) => {
